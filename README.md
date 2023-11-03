@@ -20,7 +20,7 @@ Uygulamanın bazı ekran görüntülerini aşağıda bulabilirsiniz:
 <br>
 - Test sonucunda testlere verilen cevaplar doğrultusunda paun veriliyor.
 <br>
-<div align="center">
+<div align="start">
 <img src="https://github.com/HakanOzsoyler/bilgi_testi/assets/77840330/46ec6d18-9640-47f4-bb2a-fff7c9c46ac3" width="500" alt="Ekran Görüntüsü 3">
 <img src="https://github.com/HakanOzsoyler/bilgi_testi/assets/77840330/9b9de568-611a-4ce7-bf80-a7b38d3ece30" width="500" alt="Ekran Görüntüsü 4">
 </div>
